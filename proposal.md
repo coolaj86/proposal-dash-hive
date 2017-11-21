@@ -1,12 +1,12 @@
 # Proposal - Dash Hive
 
-This document proposes and outlines the creation of a new organization called Dash Hive.
+This document proposes the creation of a new organization called Dash Hive.
 
 ### Overview
 
 > If you have limited time, **this Overview section should give you enough of an idea to cast a reasonably-informed vote**.  More information is available in separate sections and documents.
 
-Overall, I'm proposing to create a new organization called Dash Hive.  It would function closely to that of a traditional cooperative (co-op), and would be funded regularly by the Dash Treasury.  This proposal is accompanied by a letter of intent (LOI), because Dash Hive plans to do a significant amount of work prior to requesting funding.  This document sketches out a preliminary scope of work, a rough schedule, and an expected future budget, but requests no funds at this time.  The purpose of the LOI is to express an explicit (obviously non-binding) partnership between Dash Hive and the Dash Treasury.  It also provides us with a reasonable assurance that satisfactory work will be compensated.
+I'm proposing to create a new organization called Dash Hive.  It would function closely to that of a traditional cooperative (co-op), and would be funded regularly by the Dash Treasury.  This proposal is accompanied by a letter of intent (LOI), because Dash Hive plans to do a significant amount of work prior to requesting funding.  This document sketches out a preliminary scope of work, a rough schedule, and an expected future budget, but requests no funds at this time.  The purpose of the LOI is to express an explicit (obviously non-binding) partnership between Dash Hive and the Dash Treasury.  It also provides us with a reasonable assurance that satisfactory work will be compensated.
 
 ##### Background
 
