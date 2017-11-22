@@ -13,7 +13,7 @@ Some principles Dash Hive would uphold include:
 > “You never change things by fighting the existing reality.
 To change something, build a new model that makes the existing model obsolete.” 
 
-The main ideas is that Dash Hive will be industrious - writing, developing, building.
+The main idea is that Dash Hive will be industrious - writing, developing, building.
 
 ##### What is a cooperative (co-op), why are you using that term
 
