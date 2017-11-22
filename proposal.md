@@ -88,4 +88,4 @@ Forming Dash Hive would provide the following benefits:
   * Merchant adoption programs
   * A branch office with physical, consumer-facing stores/info desks, etc
 
-The co-op plans to start small, but scale its scopes of work and requested budget gradually, as we deliver products and administer services successfully.  We are more than happy to modify our approach based on community feedback.  Please comment on Dash Central with any ideas you might have for RFPs  
+The co-op plans to start small, but scale its scopes of work and requested budget gradually, as we deliver products and administer services successfully.  We are more than happy to modify our approach based on community feedback.  Please comment on Dash Central with any ideas you might have for products and services you want.  We welcome requests for proposals (RFPs) and are optimistic that we can find the talent to accomplish such.  
