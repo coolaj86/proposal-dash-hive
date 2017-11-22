@@ -54,7 +54,7 @@ Deliverables would include the following:
   * Basic website displaying information about the co-op, its key members, and current projects
 * Dash Hive projects
   * [Paper Wallet Tool](https://github.com/dashcommunity/proposal-dash-hive/blob/master/paper-wallet-tool.md) project deliverables
-  * [Request for Proposal Tool](https://github.com/dashcommunity/proposal-dash-hive/blob/master/RFP-tool.md) project
+  * [Request for Proposal Tool](https://github.com/dashcommunity/proposal-dash-hive/blob/master/RFP-tool.md) project deliverables
   
 The RFP tool, although built by us, could be used by any other independent team (existing or future).  This is the whole idea of community-funded, open-source products - they benefit everyone.
 
