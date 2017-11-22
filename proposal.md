@@ -41,17 +41,22 @@ What about the potential waste/fraud/abuse that can come with dash 'handouts'?  
 
 ### Scope
 
-The initial scope of work primarily involves organizing the co-op.  Members will be mostly local to the SLC metro area.  In addition to organizing the co-op we will also provide at least one sample project and at least one sample service to give the community an idea of what kinds of things we will actually do for Dash.
+The initial scope of work primarily involves organizing the co-op.  Members will be mostly local to the SLC metro area.  In addition to organizing the co-op we will also provide one or two sample projects to give the community an idea of what kinds of things we can do for Dash.  It's important to emphasize that these sample projects just illustrate kinds of things Dash Hive can do.  We will start by emphasizing software development, but this is only one area of service we see in our long-term vision.  
 
-Initial deliverables would include the following:
+One of the purposes of building a long-term team is that we can have a work force that can be solicited to build whatever the community wants over time.  Instead of having to create a team for every specific idea that comes up we would be an on-call resource ready to deliver.  Anyone could submit a [request for proposal (RFP)](https://en.wikipedia.org/wiki/Request_for_proposal) and tell us what you want built.  From that we would make a proposal with a detailed scope of work, schedule for delivery, and budget with itemized costs.  In order to accept RFPs we'd need to first build a tool for managing such.  A basic proof of concept for this included in the list below.
 
-* Articles of Organization for Dash Hive, including membership and compensation guidelines
-* List of initial members, recruited first from local meetup members interested in deeper involvment
-* List of services our members can provide to Dash (member skills and availability)
-* Basic website displaying information about the co-op, its key members, and current projects
-* Deliverable(s) for internal project(s)
-   * An initial Dash Hive [software project](https://github.com/dashcommunity/proposal-dash-hive/blob/master/paper-wallet-tool.md)
-   * An initial Dash Hive [service]()
+Deliverables would include the following:
+
+* Dash Hive meta deliverables
+  * Articles of Organization for Dash Hive, including membership and compensation guidelines
+  * List of initial members, recruited first from local meetup members interested in deeper involvment
+  * List of services our members can provide to Dash (member skills and availability)
+  * Basic website displaying information about the co-op, its key members, and current projects
+* Dash Hive projects
+  * [Paper Wallet Tool](https://github.com/dashcommunity/proposal-dash-hive/blob/master/paper-wallet-tool.md) project deliverables
+  * [Request for Proposal Tool](https://github.com/dashcommunity/proposal-dash-hive/blob/master/RFP-tool.md) project
+  
+The RFP tool, although built by us, could be used by any other independent team (existing or future).  This is the whole idea of community-funded, open-source products - they benefit everyone.
 
 ### Schedule
 
