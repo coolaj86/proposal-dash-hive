@@ -77,7 +77,7 @@ Forming Dash Hive would provide the following benefits:
 
 * It would **put idle talent to work** for dash
 * It would **reduce overhead** at both ends of treasury proposals:
-  * MNOs wouldn't need to vet fewer people for a given work force
+  * MNOs wouldn't need to vet as many people for a given work force
   * Individuals wouldn't need to establish reputations before working for dash
 * It would **eliminate contractor delivery risk** (no scams or underperforming projects possible)
 * It would **provide a simple path to employment** for newcomers to Dash.
