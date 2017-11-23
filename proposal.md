@@ -89,8 +89,9 @@ Forming Dash Hive would provide the following benefits:
 * It would **open/expand the opportunity for MNOs to initiate RFPs**
   * Co-op skills and qualifications would be expanded and updated regularly
   * MNOs would be able to rely on a trust-less and steadily-available workforce
+  * Community members could submit requests for products and services they think Dash Hive could deliver 
 * it would **prime SLC to be a future test-bed for pilot programs**
   * Merchant adoption programs
   * A branch office with physical, consumer-facing stores/info desks, etc
 
-The co-op plans to start small, but scale its scopes of work and requested budget gradually, as we deliver products and administer services successfully.  We are more than happy to modify our approach based on community feedback.  Please comment on Dash Central with any ideas you might have for products and services you want.  We welcome requests for proposals (RFPs) and are optimistic that we can find the talent to accomplish such.  
+The co-op plans to start small, but scale its scopes of work and requested budget gradually, as we deliver products and administer services successfully.  We are more than happy to modify our approach based on community feedback.  Please comment on [Dash Central](https://www.dashcentral.org/p/dash-hive) with any ideas you might have for products and services you want.  We welcome RFPs and are optimistic that we can find the talent to accomplish such.
