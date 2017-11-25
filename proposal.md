@@ -71,7 +71,7 @@ In general a given proposal will include the following:
 In other words, the budget section of proposals will always include some kind of **Past Remuneration** sub-section as well as a **Future Budgetary Estimate** sub-section.  The following is an example of the structure (content will, of course, change over time):
 
 ##### Past Remuneration
-A considerable amount of work has been expended in building the local community to a point we are ready to propose the creation of Dash Hive.  However, no compensation is expected for past, unsolicited work.  This proposal only requests 5 DASH to reimburse the proposal submission fee.
+A considerable amount of work has been expended in building the local community to a point we are ready to propose the creation of Dash Hive.  However, no compensation is expected for past, unsolicited work.  **This proposal only requests 5 DASH** to reimburse the proposal submission fee.
 
 ##### Future Budgetary Estimate
 In addition to not requesting any funds for this month/cycle, **we also do not expect to request (m)any funds for next month/cycle either**.  There are extra funds left over from the TEDxSLC proposal from several months ago, just over **20 DASH**.  Alex's TEDxSLC proposal suggested that any extra funds could be used to support the local SLC Dash meetup.  So far the meetup has not used any of those funds.  **We propose to re-purpose those ~20 DASH to this effort**.  Dash Hive will use part of the funds to sponsor meetup costs, but that won't amount to much compared to the left-over funds available.  The remaining funds will be used to compensate people for accomplishing the deliverables above.
