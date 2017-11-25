@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project would continue to build out [this tool](https://github.com/riongull/paper_wallet_tools).
+This project is one piece of the overall [scope of work](https://github.com/dashcommunity/proposal-dash-hive/blob/master/proposal.md#scope) of the [Dash Hive proposal](https://www.dashcentral.org/p/dash-hive).  It would continue to build out [this tool](https://github.com/riongull/paper_wallet_tools).
 
 The tool helps track the status of paper wallet give-aways.  Right now it simply checks the balances of paper wallets by running a node.js script from a command line.  That's not very user friendly or feature full.  
 
