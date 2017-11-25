@@ -2,20 +2,21 @@
 
 ### Overview
 
-This project would continue to build out [this tool](https://github.com/riongull/paper_wallet_tools).  
+This project would continue to build out [this tool](https://github.com/riongull/paper_wallet_tools).
+
 The tool helps track the status of paper wallet give-aways.  Right now it simply checks the balances of paper wallets by running a node.js script from a command line.  That's not very user friendly or feature full.  
 
-The main deliverable would be a user-friendly web site/application that guides users through the process of administering a paper wallet give-away.  This would include instructions, tools, and best practices for creating, funding, and giving out paper wallets.  The site/app would also include tools to track balances over time as well as reclaim funds from those who did not (due to loss, disinterest, etc) sweep funds from the paper wallets into their own wallet.
+The main deliverable would be a **user-friendly web site/application that guides users through the process of administering a paper wallet give-away**.  This would include instructions, tools, and best practices for creating, funding, and giving out paper wallets.  The site/app would also include tools to track balances over time as well as reclaim funds from those who did not (due to loss, disinterest, etc) sweep funds from the paper wallets into their own wallet.
 
-The budgetary estimate for this project is currently $5,000, estimated to be complete within 3 weeks of commencement.  Details regarding the project motivations, scope of work, schedule, and buget are given below.
+The budgetary estimate for this project is currently **$5,000**, estimated to be **complete within 3 weeks** of commencement.  Details regarding the project motivations, scope of work, schedule, and buget are given below.
 
 ##### Background & Motivation
 
 Paper wallet give-aways are a great way to introduce people to Dash.  Prominent past, present, and upcoming paper wallet give-aways include:
 
-* Arizona Dash Core headquarters open house
-* TEDx Salt Lake City event
-* Tron's 5 DASH/month give-away
+* [Arizona Dash Core headquarters open house](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwje-MnM8tjXAhXnxlQKHWeODGIQFggoMAA&url=https%3A%2F%2Fwww.dashcentral.org%2Fp%2FSkySong-Open-House-Reimbursement&usg=AOvVaw3abc2eEGqxLCS2jkMUzh6P)
+* [TEDx Salt Lake City event](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwj74Nnx8tjXAhXis1QKHaMZBZ8QFgg0MAI&url=https%3A%2F%2Fwww.dashcentral.org%2Fp%2FTEDxSLC2017giveaway&usg=AOvVaw3fT-okBwHf8_lpDJs990wm)
+* [Tron's 5 DASH/month give-away](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwics7WC89jXAhVqqlQKHa1bCCEQFggoMAA&url=https%3A%2F%2Fwww.dashcentral.org%2Fp%2FIntroduction-to-New-Users&usg=AOvVaw14EJUfsXKcks1GrnOnafGl)
 
 Paper wallet give-aways offer many benefits:
 
@@ -93,4 +94,4 @@ With this tool we can analyze data to see how people respond to different give-a
 
 Thank you for your time and consideration.
 
-- Dash Hive
+\- Dash Hive
