@@ -59,10 +59,7 @@ The budget is based on time and materials estimates required to complete the sco
   * refine customer requirments
   * coordinate work assignments
   * community reporting, internal communications, documentation
-* Web content development:  **$1,000**
-  * past/future event research
-  * best practices
-* Web site/application development: **$3,000**
+* Web site/application development: **$4,000**
   * architecture
   * application development
   * testing, etc
